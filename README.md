@@ -1,98 +1,92 @@
-# dark-psychology-skills
+<div align="center">
 
-**36 books. CIA psyop manuals, FBI behavior files, propaganda science,
-dark psychology, and the greatest persuasion classics ever written -
-distilled into 13 plug-and-play skills your AI agent can actually use.**
+<img src="assets/banner.svg" alt="dark-psychology-skills" width="100%"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-13-blue)](#the-skills)
-[![Format](https://img.shields.io/badge/format-agent--skills-green)](https://agent-skills.dev)
+![Skills](https://img.shields.io/badge/skills-13-blue)
+[![Format](https://img.shields.io/badge/format-SKILL.md-green)](https://github.com/anthropics/skills)
 
-No fluff. No 400-page summaries. Each skill is a few hundred lines of plain
-English that a 12-year-old could follow - and an AI agent can execute on
-real conversations.
+**13 skills that teach an AI agent how to sell, negotiate, and close.**
 
-## Why
+Distilled from 36 books read cover to cover.
+CIA manuals. FBI behavior work. Propaganda science. The persuasion classics.
 
-AI agents can browse, code, and book flights.
-But ask one to close a skeptical buyer over chat, and it sounds like a
-corporate email robot that read one blog post about "active listening".
+</div>
 
-The good stuff - how trust is built from zero, why people really object,
-when silence closes deals, how manipulators work so you never get played -
-sits inside books nobody has time to read anymore.
+---
 
-So we read them. All 36. Cover to cover. Then we kept only what survives
-one brutal filter:
+## The problem
 
-> **Does this tactic still work after you explain it out loud?**
+Agents can code and browse.
+Ask one to handle a skeptical buyer, and it sends a corporate email nobody answers.
 
-Manipulation dies when seen. Honest influence keeps working forever.
-That filter is the whole repo.
+Nobody trained it. These books did the training for humans for 100 years.
+We turned that training into files an agent can load.
 
-## The Skills
+## The filter
 
-| Skill | One-liner |
+Every tactic had to pass one test:
+
+> **Does it still work after you explain it out loud?**
+
+Tricks die when seen. Honest moves keep working.
+So manipulation shows up here only as defense material.
+
+## The skills
+
+| Skill | Use it for |
 |---|---|
+| [deal-router](skills/deal-router/) | Which skill fits the message you just got |
 | [trust-from-zero](skills/trust-from-zero/) | Get believed when nobody knows you |
-| [frame-control](skills/frame-control/) | Stop being needy; the calm side wins |
+| [frame-control](skills/frame-control/) | Stop needing the deal |
 | [discovery-power](skills/discovery-power/) | Questions that make people open up |
-| [price-anchor](skills/price-anchor/) | First number wins; discounts are earned |
-| [objection-slayer](skills/objection-slayer/) | The fear under every "no" |
-| [risk-reversal](skills/risk-reversal/) | You carry the risk, sale closes itself |
-| [cold-outreach](skills/cold-outreach/) | First messages that don't get deleted |
-| [reading-people](skills/reading-people/) | Spot real intent (and tricks run on you) in text |
-| [client-archetypes](skills/client-archetypes/) | Six buyer types, six different musics |
-| [walk-away-power](skills/walk-away-power/) | Exits that raise your value |
-| [operator-mindset](skills/operator-mindset/) | The inner game before every send |
-| [dark-tactics-defense](skills/dark-tactics-defense/) | See manipulation coming; stay on the honest line |
-| [deal-router](skills/deal-router/) | One decision tree for live conversations |
+| [price-anchor](skills/price-anchor/) | Set the first number. Hold it. |
+| [objection-slayer](skills/objection-slayer/) | Answers to every "no" |
+| [risk-reversal](skills/risk-reversal/) | You carry the risk, deal closes itself |
+| [cold-outreach](skills/cold-outreach/) | First messages that get replies |
+| [reading-people](skills/reading-people/) | Spot real intent in chat |
+| [client-archetypes](skills/client-archetypes/) | Six buyer types, six tones |
+| [walk-away-power](skills/walk-away-power/) | Leave in a way that raises your value |
+| [operator-mindset](skills/operator-mindset/) | Stay calm before every send |
+| [dark-tactics-defense](skills/dark-tactics-defense/) | See tricks aimed at you |
 
-Start with [deal-router](skills/deal-router/) - it tells you which skill to
-load for any message.
+Start with [deal-router](skills/deal-router/). It points to the rest.
 
 ## Install
 
-Works with any agent that reads markdown skills (Claude Code, opencode,
-Codex CLI, Cursor, or plain copy-paste into system prompts).
+Works with Claude Code, opencode, Cursor, Codex CLI, or any agent that reads markdown.
 
 ```bash
-# Claude Code / opencode style
 git clone https://github.com/YannisKiefer/dark-psychology-skills.git
 cp -r dark-psychology-skills/skills/* ~/.claude/skills/
-
-# or just feed the files to your agent as context
 ```
 
-Each skill is `SKILL.md` with YAML frontmatter (`name`, `description`) -
-the standard agent skills format. Your agent auto-loads the right skill
-from its description.
+Or paste any SKILL.md into your system prompt.
+
+Each skill follows the [agent skills format](https://github.com/anthropics/skills):
+YAML frontmatter with `name` and `description`, body in plain English.
 
 ## Example
 
-See [EXAMPLES.md](EXAMPLES.md) for full threads where a skeptical buyer goes
-from "is this another scam?" to "deal" without a single argument about price.
+See [EXAMPLES.md](EXAMPLES.md). A buyer goes from
+"is this another scam?" to "deal" without one argument about price.
 
-## Where It Came From
+## Sources
 
-[SOURCES.md](SOURCES.md) lists all 36 books and exactly which mechanism each
-skill distilled - from CIA analysis doctrine to FBI elicitation to Hopkins'
-pay-on-result rule.
+[SOURCES.md](SOURCES.md) lists all 36 books and what each one gave us.
 
-## The Rules Baked Into Every Skill
+## Rules baked into every skill
 
 1. Proof before money.
-2. Specific numbers beat adjectives.
-3. Urgency must be real or it must be silent.
+2. Real numbers beat adjectives.
+3. Urgency must be true, or silent.
 4. Never make anyone wrong.
 5. Walk warm.
 
 ## License
 
-MIT. Use it, fork it, ship it in products. Attribution appreciated, never
-required.
+MIT. Fork it, ship it, sell products with it.
 
-## Contributing
-
-New skill? It must pass the filter: still works when explained out loud,
-plain English, no book excerpts. Open a PR.
+<div align="center">
+<sub>Built by <a href="https://github.com/YannisKiefer">Yannis Kiefer</a></sub>
+</div>

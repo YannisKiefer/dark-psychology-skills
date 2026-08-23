@@ -1,60 +1,56 @@
 ---
 name: discovery-power
-description: Use this when you need to find out what someone really wants, fears, or hides - without interrogating them. Question tools from FBI behaviorists and hostage negotiators.
+description: Use this to find out what someone wants, fears, or hides. Without interrogating them.
 ---
 
 # Discovery Power
 
 ## The Big Idea
 
-Direct questions make people clamp up.
-Indirect moves make them open up AND feel smart doing it.
+Direct questions make people shut down.
+Smart moves make them open up and feel smart too.
 
-People never argue with their own conclusions. So stop delivering conclusions.
-Build questions that let them discover what you wanted them to know.
+People never argue with their own ideas. So don't give conclusions.
+Ask questions that lead them there.
 
 ## The Moves
 
-1. **The Accusation Audit.**
-   Say the worst thing they think about you, first:
+1. **Name their worst thought first.**
    "You probably think this is a scam. Fair."
    Now their shield has nothing to block.
 
-2. **The Label.**
-   Name their feeling in 3 words: "Seems like timing worries you."
-   If right: instant trust. If wrong: they correct you, which is the real
-   answer. Win-win.
+2. **Label the feeling.**
+   "Seems like timing worries you."
+   Right? Trust jumps. Wrong? They correct you. That's the real answer.
 
-3. **The Mirror.**
-   Repeat their last 1-3 words as a question.
+3. **Repeat their last words as a question.**
    Them: "The last guy disappeared."
    You: "Disappeared?"
-   People elaborate. You learn everything without asking.
+   They keep talking. You learn everything.
 
-4. **Calibrated Questions.**
-   Start with "what" or "how", never "why" (sounds like blame):
+4. **Ask "what" and "how". Never "why".**
    "What happened with the last person you tried?"
    "How would this need to work for you to say yes?"
+   "Why" sounds like blame.
 
-5. **The No-Safe Ask.**
-   People refuse pushes but accept choices where NO costs nothing:
-   "Would it be ridiculous to start with the free sample?"
+5. **Make "no" safe.**
+   People say no to pushes but yes to choices:
+   "Would it be crazy to start with the free sample?"
 
-6. **The That's-Right Loop.**
-   Summarize THEIR situation back until they say "that's right".
-   "That's right" = real buy-in. "You're right" = they're managing you.
+6. **Summarize until they say "that's right".**
+   Tell their story back to them, short.
+   "That's right" means real agreement. "You're right" means they manage you.
 
-7. **The Presumptive Statement.**
-   Say something almost true so correcting reveals the truth:
+7. **Say something almost true.**
    "Most owners already paid someone who ghosted them."
-   Their correction tells you their history.
+   Their correction tells you their story.
 
 ## When It Backfires
 
-- Stacking questions. One question per message, or it feels like an arrest.
-- Mirroring twice in a row. Reads as mockery.
-- Using labels on people who already trust you. It starts feeling like tricks.
+- Two questions in one message. Feels like an arrest.
+- Mirroring twice in a row. Feels like mocking.
+- Using labels on people who already trust you. Starts feeling like tricks.
 
 ## One-Line Memory
 
-Whoever asks better questions controls the deal while doing less talking.
+Good questions close deals while you talk less.

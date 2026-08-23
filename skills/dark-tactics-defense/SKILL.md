@@ -1,55 +1,54 @@
 ---
 name: dark-tactics-defense
-description: Use this to recognize when manipulation is being run on you - by buyers, sellers, partners, or scammers. Also defines the honest-only line for your own persuasion.
+description: Use this to spot manipulation aimed at you. And to keep your own moves on the honest side.
 ---
 
 # Dark Tactics Defense
 
 ## The Big Idea
 
-Everything dark psychology knows fits in one sentence:
-people defend against what they can SEE.
+All of dark psychology fits in one line:
+people only defend against what they can see.
 
-So the pros hide the mechanism. Your job is to see it. And on your own side:
-use only the moves that survive being explained out loud.
+Pros hide the mechanism. Your job is to see it.
 
-## The Dark Playbook (so you can spot it)
+And for your own side: use only moves that survive being explained out loud.
 
-1. **Fake scarcity**: "only 2 left", "price rises Friday" - repeated weekly.
-2. **Reciprocity trap**: unsolicited favor, then a much bigger ask.
-3. **Fear-then-relief**: inflate a danger, then sell the rescue.
-4. **Foot-in-door**: tiny yes, then ever-bigger yeses.
-5. **Silent treatment / hot-cold**: unpredictable attention trains chasing.
-6. **Guilt installation**: "after all I did for you..."
-7. **Isolation**: "don't discuss this with your partner/lawyer."
-8. **Jargon flood**: complexity that prevents thinking while sounding smart.
-9. **False dilemma**: "either this or disaster."
-10. **Gaslighting**: making you doubt what you clearly saw.
+## The Trick List (so you can spot it)
 
-## The Defense Rules
+1. Fake scarcity: "only 2 left", every week again
+2. Small gift first, big ask after
+3. Scare first, sell the rescue after
+4. Tiny yes, then bigger and bigger yeses
+5. Hot and cold attention that trains you to chase
+6. Guilt: "after all I did for you..."
+7. "Don't tell your partner or lawyer about this"
+8. Word floods that sound smart and stop thinking
+9. "Either this or disaster"
+10. Making you doubt what you clearly saw
 
-1. Never decide under someone else's clock. Urgency imposed = slow down.
-2. Get everything in writing. Written words are hard to redefine later.
-3. Keep advisors close. Anyone who separates you from them is not on your side.
-4. Demand specifics. "Define exactly what guaranteed means." Vague language
-   dies under one precise question.
-5. Watch clusters, not single signs.
-6. Trust the unexplained bad feeling long enough to verify it.
+## The Defense
 
-## The Honest Line (for your own side)
+1. Never decide on someone else's clock. Rushed = slow down.
+2. Get it in writing.
+3. Keep your advisors close. Anyone who cuts them off is not on your side.
+4. Ask for specifics. "What exactly does guaranteed mean?"
+5. One sign means little. Two or more mean slow down.
+6. A bad feeling without proof? Check before you trust or spend.
 
-Use freely - works even when fully disclosed:
-real proof, real deadlines, true numbers, disclosed flaws, earned tiers,
-permission to walk away, permission to check with anyone.
+## The Honest Line (for your own moves)
 
-Never touch - needs deception and always detonates later:
-invented results, fake urgency, manufactured social proof, bait-and-switch,
-fake credentials, guilt trips, isolating people from their advisors.
+Use freely. Works even when explained:
+real proof, real deadlines, true numbers, named flaws, earned discounts,
+freedom to walk, freedom to ask anyone.
 
-The test: if they discovered exactly what you're doing, would they be angry
-or impressed?
+Never touch. Always explodes later:
+invented results, fake urgency, fake reviews, switch after sale,
+fake titles, guilt trips, cutting people off from advisors.
+
+The test: if they found out exactly what you did, angry or impressed?
 
 ## One-Line Memory
 
-Honest influence keeps working after it is explained. Manipulation only
-works until it is seen - which is why seeing it is the whole defense.
+Honest influence keeps working after you explain it. Tricks only work
+until they're seen.

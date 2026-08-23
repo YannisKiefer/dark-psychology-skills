@@ -1,61 +1,61 @@
 ---
 name: deal-router
-description: Use this as the always-on brain. Read the buyer's last message, find the first matching branch, act. Ten seconds under pressure.
+description: Use this as the always-on brain. Read the last message, find the first match, act. Ten seconds.
 ---
 
 # Deal Router
 
 ## The Big Idea
 
-Under pressure you don't rise to the occasion, you fall to your training.
-This is the training: one tree, first match wins, one move per reply.
+Under pressure you don't rise to the moment.
+You fall to your training.
+
+This is the training. First match wins. One move per reply.
 
 ## The Tree
 
 **A. Where is the thread?**
 
-1. Stranger, no thread yet -> cold-outreach opener.
-2. They replied -> name their archetype (client-archetypes).
-3. Interest shown ("how does it work") -> discovery-power: label + ONE
-   question you can't look up yourself.
-4. Scope forming -> present a ready list, they confirm yes/no only.
-5. List confirmed -> risk-reversal structure stated once, work starts.
-6. Result shown -> attach the ask in the SAME window. Then silence.
-7. Objection appeared -> objection-slayer table.
-8. Price pushback -> price-anchor moves.
-9. Pay-terms confusion -> acknowledge, restate facts warmly, one clean path
-   forward.
-10. Danger signs (abuse, fishing, threats) -> reading-people alarms +
-    walk-away-power checklist BEFORE replying.
-11. Someone probes how you work internally -> one warm deflection, redirect
-    to verifiable results. Log it.
+1. Stranger, no thread yet -> cold-outreach, move 1
+2. They replied -> name their type (client-archetypes)
+3. They ask "how does it work" -> discovery-power: label + one question
+4. Deal is forming -> show a ready list. They confirm yes or no only.
+5. List confirmed -> state risk-reversal once. Work starts.
+6. Result shown -> attach the price IN THE SAME message. Then quiet.
+7. Objection -> objection-slayer table
+8. Price pushback -> price-anchor moves
+9. Confused about payment terms -> agree warmly, restate facts, one path
+10. Rudeness, probing, threats -> reading-people alarms + walk-away checklist
+    BEFORE you answer
+11. Someone digs for your methods -> one warm deflection. Point at results.
+    Log it.
 
-**B. Fast moves table**
+**B. Fast moves**
 
 | Signal | Move |
 |---|---|
-| "Is this a scam?" | Accusation audit + invert to structure |
-| "Too expensive" | Cost-of-inaction math question |
-| Silence after quote | One new fact, then park |
-| Silence after proof | Ask once now - openness peaks after a win |
-| "Think about it" | Permission + "what separates yes from no?" + silence |
-| Hostility burst | Answer the pain under it, short and warm |
-| Urgency pushed AT you | Slow down, verify independently |
+| "Is this a scam?" | Name the fear first, then flip to structure |
+| "Too expensive" | Ask what the problem costs per month |
+| Silence after your price | One new fact. Then stop. |
+| Silence after proof | Ask now. Interest peaks right after a win. |
+| "Let me think" | "Sure. What would make it a yes?" Then quiet. |
+| Rude burst | Answer the pain under it. Short and warm. |
+| Rushed by them | Slow down. Check facts yourself. |
 
-**C. Pre-send filter (every message)**
+**C. Before every send**
 
-Neediness check. Truth check. Length check. Polarity check. Screenshot test.
-Fail any -> rewrite.
+Chasing? Truth? Too long? Moves anything forward?
+Screenshot safe? Fail one = rewrite.
 
 **D. The ten-second version**
 
-Calm buyer -> answer one thing, ask one thing.
-Pushing price -> math, not defense.
-Doubting -> structure, not promises.
-Probing your methods -> wall with warmth.
-Proof just landed -> ask NOW.
-Stuck everywhere -> polarize: "Same page or different ballparks?"
+Calm buyer: answer one thing, ask one thing.
+Price pushback: math, not defense.
+Doubt: structure, not promises.
+Probing: wall with warmth.
+Proof just landed: ask NOW.
+Stuck everywhere: "Same page or different ballparks?"
 
 ## One-Line Memory
 
-First match wins. One move per message. Proof before money. Walk loaded.
+First match wins. Proof before money. Walk loaded.

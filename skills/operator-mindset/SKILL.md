@@ -1,56 +1,54 @@
 ---
 name: operator-mindset
-description: Use this before sending anything important, and after any rejection. The inner game: unneediness, rejection as data, emotional reset between conversations.
+description: Use this before you send anything important, and after every rejection.
 ---
 
 # Operator Mindset
 
 ## The Big Idea
 
-Your messages leak your inner state.
-Neediness, fear, and anger travel through text even in single words.
-Fix the operator, and half the message problems disappear.
+Your messages leak your mood.
+
+Neediness, fear, and anger travel through text.
+Fix the operator, and half the message problems die.
 
 ## The Moves
 
-1. **The pre-send checklist (10 seconds):**
-   - Neediness: am I chasing? double-texting? over-explaining?
-   - Truth: is every claim in this message verifiable?
-   - Length: could this be one line shorter?
-   - Polarity: does this change anything, or is it dead air?
-   If any check fails, rewrite before sending.
+1. **Check before every send:**
+   - Am I chasing? (double texting, over explaining)
+   - Is everything in here true?
+   - Can I cut one line?
+   - Does this move anything forward?
+   Fail one? Rewrite.
 
-2. **Rejection is navigation data.**
-   A "no" means aim was off: wrong person, wrong angle, or wrong time.
-   It never means YOU are wrong. Missiles reach targets by zigzagging.
+2. **A no is information.**
+   Wrong person, wrong angle, or wrong time.
+   It never means YOU are wrong.
 
-3. **Separate fact from opinion.**
-   Fact: they said the price is high. Opinion: they hate me.
-   Send against facts only. Opinions are not orders.
+3. **Fact or feeling?**
+   Fact: they said the price is high.
+   Feeling: they hate me.
+   Send against facts only.
 
 4. **Nerves are fuel.**
-   Pre-send jitters are undifferentiated energy. Label it excitement and it
-   works for you; label it fear and it works against you.
+   Same energy before a send. Call it fear, it works against you.
+   Call it focus, it works for you.
 
-5. **Reset between threads.**
-   Ten seconds of breathing after a hostile chat. Never let buyer number
-   three feel the mood from buyer number two.
+5. **Reset between chats.**
+   Ten breaths after a hostile thread.
+   Buyer number three shouldn't feel buyer number two's mood.
 
-6. **Short memory, long game.**
-   Replay wins, starve failures. What you mentally replay gets stronger.
+6. **Replay wins. Starve losses.**
+   What you replay gets stronger. Choose what you replay.
 
-7. **Keep two horses running.**
-   Walk-away power is real only when other deals exist. Pipeline discipline
-   IS negotiation strength.
+7. **Keep two deals alive.**
+   Walk-away power is real only when other options exist.
 
 ## When It Backfires
 
-- Using mindset lines to excuse stubbornness. Data says change the angle;
-  ego says push again. Listen to data.
-- Performing calm you don't have. Build real calm with pipeline volume, not
-  affirmations.
+- Using mindset talk to avoid changing your approach.
+  Data says change the angle. Ego says push again. Listen to data.
 
 ## One-Line Memory
 
-You cannot send a calmer message than the one written by a person who does
-not need this deal.
+You can't write a calm message if you need the deal.

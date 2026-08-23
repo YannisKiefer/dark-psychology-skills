@@ -1,59 +1,57 @@
 ---
 name: reading-people
-description: Use this to read true intent in text threads - who is real, who is shopping, who is running a trick on you. FBI behavioral tools adapted for chat.
+description: Use this to read true intent in chat. Who is real, who is shopping, who runs a trick on you.
 ---
 
 # Reading People
 
 ## The Big Idea
 
-Words lie easily. Patterns lie badly.
-Watch rhythm, length, and timing shifts, not the words themselves.
+Words lie fast. Patterns lie slow.
+
+Watch rhythm, message length, and timing changes. Not the words.
 
 ## The Moves
 
-1. **Baseline first, then watch deviations.**
-   How does THIS person normally write? Speed, length, emoji use.
-   A sudden change means something happened. Find out what before reacting.
+1. **Learn their normal first.**
+   How does THIS person usually write? Speed, length, style.
+   A sudden change means something happened. Find out before you react.
 
-2. **The Evasion Test.**
-   Ask a yes/no question. Anything except yes or no is an answer:
-   "Did you look at it?" -> "It's interesting..." = they didn't look.
+2. **The yes/no test.**
+   Ask a question with two possible answers.
+   Anything except yes or no IS the answer:
+   "Did you look at it?" ... "It's interesting..." = they didn't look.
 
-3. **Silence has almost no meaning.**
-   Silence fits every theory: busy, shopping rivals, scared, gone.
-   Do not update your beliefs much on silence. Collect one discriminating
-   fact instead: "Is the holdup price, trust, or timing?"
+3. **Silence means almost nothing.**
+   Silence fits every story: busy, shopping rivals, scared, gone.
+   Don't guess. Collect one fact instead:
+   "Is it price, trust, or timing?"
 
-4. **The Lip-Purse Rule (text version).**
-   Hedging, topic switches, and delayed replies mean an objection is FORMING
-   but unsaid. Answer it now. Once spoken, people defend it to stay
-   consistent.
+4. **Catch the objection before they say it.**
+   Hedging and topic switches mean an objection is forming.
+   Answer it now. Once spoken, people defend it forever.
 
-5. **Anger is pain in costume.**
-   Hostile messages usually mean hurt: burned before, embarrassed, scared.
-   Respond to the pain ("sounds like you got burned before") never to the
-   anger. Logic on a furious person adds fuel.
+5. **Anger is pain in a costume.**
+   Rude messages usually mean: burned before, embarrassed, scared.
+   Answer the pain. Never the anger. Logic on an angry person adds fuel.
 
-6. **Manipulation alarms - someone may be running YOU:**
-   - Manufactured urgency: "decide in 1 hour" clocks.
-   - Reciprocity traps: small gift, then big ask.
-   - Isolation plays: "don't tell your partner/lawyer about this."
-   - Question mining with zero sharing back.
-   - Guilt flips: you suddenly owe them.
-   When two fire together: slow everything down and verify independently.
+6. **Tricks aimed at YOU:**
+   - Rush clocks: "decide in 1 hour"
+   - Small gift first, big ask after
+   - "Don't tell your partner or lawyer"
+   - Many questions from them, zero answers to you
+   - Guilt flips: suddenly you owe them
+   Two of these together? Slow down. Check facts yourself.
 
 7. **The screenshot test.**
-   Write every message as if it gets forwarded to their lawyer.
-   It sometimes does.
+   Write every message like it gets forwarded to a lawyer.
+   Sometimes it is.
 
 ## When It Backfires
 
-- Reading too much into one signal. Clusters matter, single data points don't.
-- Priming yourself with someone else's label ("he's a tire kicker").
-  Judge fresh.
+- Reading one signal as proof. Wait for patterns.
+- Believing someone else's label ("he's a tire kicker"). Judge fresh.
 
 ## One-Line Memory
 
-Trust patterns over words, answer forming objections early, and when someone
-pushes urgency at you, that is exactly when you slow down.
+When someone pushes speed at you, that's when you slow down.

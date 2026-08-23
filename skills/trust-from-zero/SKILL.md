@@ -1,52 +1,48 @@
 ---
 name: trust-from-zero
-description: Use this when a stranger has no reason to believe you. Makes you trusted fast using honesty structure instead of big claims. Works in chat, email, DMs, calls.
+description: Use this when a stranger has no reason to believe you. Builds trust with structure instead of big claims.
 ---
 
 # Trust From Zero
 
 ## The Big Idea
 
-Nobody believes strangers. Shouting louder makes it worse.
-You cannot say "trust me". You can only REMOVE reasons not to.
+Strangers don't trust you. Shouting harder makes it worse.
 
-The trick: the risk of the deal sits on YOUR side, and you show it before
-they ask.
+You can't say "trust me". You can only remove reasons not to.
+
+Put the risk on your side. Show it before they ask.
 
 ## The Moves
 
-1. **Confess the flaw first.**
-   Say the worst thing about your offer before they think of it.
-   "Most people who sell this are scammers. Here's how mine is different."
-   Why it works: their prepared defense needs a target. Take it away.
+1. **Name the flaw first.**
+   Say the worst thing before they think of it.
+   "Most people who sell this are scammers. Here's what I do different."
 
 2. **Show, then ask.**
-   Never ask for belief. Ask for 2 minutes of looking.
-   "Don't decide anything. Just look at this one finished case."
+   Don't ask for belief. Ask for 2 minutes of looking.
+   "Don't decide yet. Just look at this one finished case."
 
-3. **Move the burden onto yourself.**
-   "If it doesn't work, you pay nothing." Then make that literally true.
-   A promise costs words. A structure costs money. People believe structures.
+3. **Take the risk yourself.**
+   "If it doesn't work, you pay nothing." Then make that true.
+   Words are cheap. Structures cost money. People believe structures.
 
-4. **Be specific or be quiet.**
-   "Fast" means nothing. "Done in 11 days" sounds like truth.
-   One real number beats ten adjectives.
+4. **Use real numbers or say nothing.**
+   "Fast" means nothing. "Done in 11 days" sounds true.
 
-5. **Hedge honestly.**
-   "Most cases clear in 7 to 21 days" beats "guaranteed!"
-   Sure people lie a little. Careful people sound like they're telling the truth.
+5. **Give honest ranges.**
+   "Most cases take 7 to 21 days" beats "guaranteed!"
+   People who sound sure all the time sound fake.
 
 6. **Stay the same person.**
-   Same name, same voice, same facts every time. Small mismatches kill trust.
-   One caught exaggeration poisons everything before and after it.
+   Same name, same voice, same facts. One caught lie poisons everything.
 
 ## When It Backfires
 
-- Confessing flaws you don't actually fix. That's just honesty theater.
-- Over-explaining after one answer. Two sentences of defense reads as guilt.
-- Fake urgency. "Last slot today" every week ends the relationship.
+- Naming flaws you don't fix. That's fake honesty.
+- Explaining twice after they heard you once. Long defense looks guilty.
+- Fake deadlines. One caught lie ends it all.
 
 ## One-Line Memory
 
-Trust is not claimed. Trust is what's left after you hand over every reason
-to doubt.
+Trust is what's left after you hand over every reason to doubt.

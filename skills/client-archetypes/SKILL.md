@@ -1,53 +1,60 @@
 ---
 name: client-archetypes
-description: Use this to adapt tone per buyer type. Six universal archetypes with different fears - same deal, different music.
+description: Use this to match your tone to the buyer type. Six types. Same deal, different music.
 ---
 
 # Client Archetypes
 
 ## The Big Idea
 
-Same words close one buyer and kill the next.
-First job in any thread: name the archetype. Then play their music.
+The same words close one buyer and kill the next.
+
+First job in any chat: name the type. Then play their music.
 
 ## The Six
 
-**1. The Skeptical**
-Tells: scam questions, asks for credentials, short replies.
-Fear: being fooled. Fix: proof density UP, hype ZERO, slow pace.
-"Fair guess. That's why nothing moves until you've seen it work."
+**1. The Skeptic**
+Signs: scam questions, wants proof, short replies.
+Fear: being fooled.
+Play: lots of proof, zero hype, slow pace.
+"Fair guess. That's why you pay nothing until you've seen it work."
 
 **2. The Panicked**
-Tells: exclamation marks, "this is an emergency NOW".
-Fear: the bleeding. Fix: calm plan fast, one action today.
-Do NOT raise prices on desperation. Desperation deals become refunds.
+Signs: exclamation marks, "emergency", "now".
+Fear: the bleeding.
+Play: calm plan fast. One action today.
+Don't raise prices on desperate people. Those become refunds.
 
 **3. The Bargain Hunter**
-Tells: leads with price, anchors low, compares quotes.
-Fear: overpaying. Fix: let them EARN a better rate through volume or
-commitment. One trade round max, then hold.
+Signs: starts with price, low first number, compares quotes.
+Fear: overpaying.
+Play: let them earn a better rate with volume or commitment.
+One trade round max. Then hold.
 
-**4. The Legacy Terms Buyer**
-Tells: "the last company did it differently", surprised by your process.
-Fear: unfair change mid-deal. Fix: acknowledge first, facts second,
-frictionless path forward. Never relitigate who said what.
+**4. The Old-Rules Buyer**
+Signs: "the last company did it differently".
+Fear: unfair change mid-deal.
+Play: agree first, facts second, one clean path forward.
+Never argue about who said what.
 
-**5. The Multi-Unit Owner**
-Tells: speaks about systems, locations, "we".
-Fear: complexity. Fix: one list, one approval, plan rates, standing capacity.
+**5. The Multi-Location Owner**
+Signs: says "we" and "our locations", thinks in systems.
+Fear: complexity.
+Play: one list, one approval, plan rates.
 
 **6. The Middleman**
-Tells: marketing vocabulary, resell questions, hides the end client.
-Fear: losing margin. Fix: volume pricing, neutral branding. Double your
-confidentiality discipline - middlemen leak context.
+Signs: marketing words, resell questions, hides their client.
+Fear: losing margin.
+Play: volume pricing, neutral branding.
+Double secrecy. Middlemen leak context.
 
-## Cross-Archetype Kills
+## Kills
 
-- Slow-walking a Panicked buyer loses them to whoever answers first.
-- Proof-dumping on a Bargain Hunter: they wanted numbers, not education.
-- Treating a Franchise owner like a small shop insults their scale.
+- Slow answers lose Panicked buyers to whoever replies first.
+- Proof walls bore Bargain Hunters. They want numbers.
+- Small-shop talk insults Multi-Location owners.
 - Trusting a Middleman like a direct buyer invites leaks.
 
 ## One-Line Memory
 
-Floors never move for anyone. Music changes for everyone.
+Your rules never move. Your tone moves for everyone.

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect x="0" y="282" width="1200" height="18" fill="#161b22"/>
+  <rect x="0" y="278" width="360" height="4" fill="#f85149"/>
+  <rect x="372" y="278" width="240" height="4" fill="#30363d"/>
+  <g transform="translate(80,150)">
+    <!-- open book -->
+    <path d="M0,-38 C20,-52 45,-52 62,-40 L62,10 C45,-2 20,-2 0,12 Z" fill="#21262d" stroke="#8b949e" stroke-width="2.5"/>
+    <path d="M124,-38 C104,-52 79,-52 62,-40 L62,10 C79,-2 104,-2 124,12 Z" fill="#21262d" stroke="#8b949e" stroke-width="2.5"/>
+    <line x1="10" y1="-24" x2="48" y2="-32" stroke="#8b949e" stroke-width="2"/>
+    <line x1="10" y1="-8" x2="48" y2="-16" stroke="#8b949e" stroke-width="2"/>
+    <line x1="76" y1="-32" x2="114" y2="-24" stroke="#8b949e" stroke-width="2"/>
+    <line x1="76" y1="-16" x2="114" y2="-8" stroke="#8b949e" stroke-width="2"/>
+    <!-- brain above -->
+    <g transform="translate(62,-78)">
+      <path d="M-26,6 C-34,-2 -30,-16 -18,-18 C-16,-30 0,-34 8,-26 C22,-32 34,-22 30,-10 C38,-2 30,10 20,10 L-18,10 C-24,10 -28,8 -26,6 Z" fill="#0d1117" stroke="#f85149" stroke-width="2.5"/>
+      <path d="M-4,-26 C-6,-14 -6,-2 -2,10" stroke="#f85149" stroke-width="2" fill="none"/>
+      <path d="M10,-24 C14,-12 12,0 8,10" stroke="#f85149" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+  <text x="260" y="128" font-family="ui-monospace,Menlo,monospace" font-size="58" font-weight="700" fill="#e6edf3">dark-psychology-skills</text>
+  <text x="264" y="176" font-family="ui-monospace,Menlo,monospace" font-size="27" fill="#8b949e">13 agent skills. Distilled from 36 books.</text>
+  <text x="264" y="218" font-family="ui-monospace,Menlo,monospace" font-size="21" fill="#6e7681">CIA manuals. FBI behavior work. Propaganda science. Persuasion classics.</text>
+</svg>
