@@ -57,6 +57,12 @@ Start with [deal-router](skills/deal-router/). It points to the rest.
 Works with Claude Code, opencode, Cursor, Codex CLI, or any agent that reads markdown.
 
 ```bash
+npx skills add YannisKiefer/dark-psychology-skills
+```
+
+Or the manual way:
+
+```bash
 git clone https://github.com/YannisKiefer/dark-psychology-skills.git
 cp -r dark-psychology-skills/skills/* ~/.claude/skills/
 ```
