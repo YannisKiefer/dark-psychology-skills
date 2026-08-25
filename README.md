@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg?v=4" alt="dark-psychology-skills" width="100%"/>
+<img src="assets/banner.jpg?v=5" alt="dark-psychology-skills" width="100%"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Skills](https://img.shields.io/badge/skills-13-blue)
