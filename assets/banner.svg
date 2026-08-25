@@ -3,22 +3,59 @@
   <rect x="0" y="282" width="1200" height="18" fill="#161b22"/>
   <rect x="0" y="278" width="360" height="4" fill="#f85149"/>
   <rect x="372" y="278" width="240" height="4" fill="#30363d"/>
-  <g transform="translate(80,150)">
-    <!-- open book -->
-    <path d="M0,-38 C20,-52 45,-52 62,-40 L62,10 C45,-2 20,-2 0,12 Z" fill="#21262d" stroke="#8b949e" stroke-width="2.5"/>
-    <path d="M124,-38 C104,-52 79,-52 62,-40 L62,10 C79,-2 104,-2 124,12 Z" fill="#21262d" stroke="#8b949e" stroke-width="2.5"/>
-    <line x1="10" y1="-24" x2="48" y2="-32" stroke="#8b949e" stroke-width="2"/>
-    <line x1="10" y1="-8" x2="48" y2="-16" stroke="#8b949e" stroke-width="2"/>
-    <line x1="76" y1="-32" x2="114" y2="-24" stroke="#8b949e" stroke-width="2"/>
-    <line x1="76" y1="-16" x2="114" y2="-8" stroke="#8b949e" stroke-width="2"/>
-    <!-- brain above -->
-    <g transform="translate(62,-78)">
-      <path d="M-26,6 C-34,-2 -30,-16 -18,-18 C-16,-30 0,-34 8,-26 C22,-32 34,-22 30,-10 C38,-2 30,10 20,10 L-18,10 C-24,10 -28,8 -26,6 Z" fill="#0d1117" stroke="#f85149" stroke-width="2.5"/>
-      <path d="M-4,-26 C-6,-14 -6,-2 -2,10" stroke="#f85149" stroke-width="2" fill="none"/>
-      <path d="M10,-24 C14,-12 12,0 8,10" stroke="#f85149" stroke-width="2" fill="none"/>
+
+  <!-- left hand: reaching right, contour line art with pose keypoints -->
+  <g transform="translate(15,60) scale(0.62)" fill="none" stroke="#cfc8b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 30,168 C 80,156 140,152 190,155 L 205,152 C 240,140 285,130 318,126 C 326,125 330,129 324,134 C 295,140 255,148 228,154 L 232,155 C 262,146 300,140 330,138 C 338,138 340,143 333,147 C 302,154 265,160 240,165 L 243,166 C 268,160 300,157 326,157 C 333,158 334,163 327,166 C 300,171 270,175 250,178 L 252,179 C 272,176 295,175 313,176 C 320,177 320,182 313,184 C 292,187 268,189 254,191 C 240,196 225,200 210,203 C 160,212 90,218 30,222"/>
+    <path d="M 100,158 C 115,135 140,118 168,108 C 176,105 182,110 176,117 C 155,130 135,145 122,160"/>
+  </g>
+
+  <!-- right hand: open palm, reaching left -->
+  <g transform="translate(245,0)" fill="none" stroke="#cfc8b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 265,158 C 215,150 165,150 130,153 C 95,150 45,147 15,146 C 8,146 8,151 14,153 C 45,156 95,158 125,159 L 127,160 C 90,158 40,158 12,160 C 5,161 5,166 12,167 C 42,169 92,170 122,171 L 124,172 C 88,171 42,172 16,174 C 9,175 10,180 17,181 C 45,183 90,184 120,184 L 122,185 C 85,187 50,189 28,191 C 22,192 23,196 30,197 C 55,199 90,199 118,198 C 160,204 215,208 265,210"/>
+    <path d="M 195,152 C 185,132 170,116 150,106 C 143,102 137,108 143,114 C 158,126 172,140 178,154"/>
+  </g>
+
+  <!-- the gap: red dashed connection between fingertips -->
+  <line x1="210" y1="141" x2="246" y2="149" stroke="#f85149" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="251" cy="150" r="4" fill="#f85149"/>
+
+  <!-- pose keypoints on the left hand -->
+  <g transform="translate(15,60) scale(0.62)">
+    <g fill="#f0ede6">
+      <circle cx="34" cy="166" r="4"/>
+      <circle cx="98" cy="156" r="4"/>
+      <circle cx="128" cy="132" r="4"/>
+      <circle cx="172" cy="110" r="4"/>
+      <circle cx="140" cy="148" r="4"/>
+      <circle cx="205" cy="150" r="4"/>
+      <circle cx="265" cy="138" r="4"/>
+      <circle cx="322" cy="128" r="4" fill="#f85149"/>
+      <circle cx="335" cy="141" r="4"/>
+      <circle cx="329" cy="161" r="4"/>
+      <circle cx="316" cy="179" r="4"/>
+      <circle cx="210" cy="202" r="4"/>
+      <circle cx="120" cy="215" r="4"/>
+      <circle cx="34" cy="220" r="4"/>
+    </g>
+    <g font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#8b949e">
+      <text x="12" y="158">01</text>
+      <text x="88" y="146">02</text>
+      <text x="118" y="122">03</text>
+      <text x="168" y="100">04</text>
+      <text x="146" y="152">05</text>
+      <text x="200" y="140">06</text>
+      <text x="258" y="128">07</text>
+      <text x="330" y="120" fill="#f85149">08</text>
+      <text x="344" y="146">09</text>
+      <text x="338" y="170">10</text>
+      <text x="324" y="192">11</text>
+      <text x="216" y="220">12</text>
+      <text x="118" y="236">13</text>
+      <text x="12" y="240">14</text>
     </g>
   </g>
-  <text x="260" y="128" font-family="ui-monospace,Menlo,monospace" font-size="58" font-weight="700" fill="#e6edf3">dark-psychology-skills</text>
-  <text x="264" y="176" font-family="ui-monospace,Menlo,monospace" font-size="27" fill="#8b949e">13 agent skills. Distilled from 36 books.</text>
-  <text x="264" y="218" font-family="ui-monospace,Menlo,monospace" font-size="21" fill="#6e7681">CIA manuals. FBI behavior work. Propaganda science. Persuasion classics.</text>
+
+  <text x="560" y="148" font-family="ui-monospace,Menlo,monospace" font-size="38" font-weight="700" fill="#e6edf3">dark-psychology-skills</text>
+  <text x="562" y="186" font-family="ui-monospace,Menlo,monospace" font-size="18" fill="#8b949e">13 agent skills. Distilled from 36 books.</text>
 </svg>
