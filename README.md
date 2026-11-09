@@ -13,6 +13,8 @@ CIA manuals. FBI behavior work. Propaganda science. The persuasion classics.
 
 </div>
 
+**dark-psychology-skills is a free, MIT-licensed set of 13 agent skills (SKILL.md files) that teach AI agents honest negotiation, persuasion, objection handling and sales outreach.** Drop them into Claude Code, Codex CLI, Cursor, opencode or any agent that reads markdown.
+
 ---
 
 ## The problem
@@ -89,10 +91,30 @@ See [EXAMPLES.md](EXAMPLES.md). A buyer goes from
 4. Never make anyone wrong.
 5. Walk warm.
 
+## FAQ
+
+**What is dark-psychology-skills?**
+13 plain-English skill files that tell an AI agent what to say when it sells, negotiates or answers a "no". Each file has the idea, the moves with example lines, when it backfires, and a one-line memory.
+
+**Does it teach manipulation?**
+No. Every tactic had to pass one test: it still works after you explain it to the other person. Manipulation appears only in [dark-tactics-defense](skills/dark-tactics-defense/), so you can spot it when it is aimed at you.
+
+**Which agents does it work with?**
+Claude Code, Codex CLI, Cursor, opencode, and any agent that can load a markdown file. You can also paste a single SKILL.md into a system prompt.
+
+**Where do I start?**
+Install all 13, then point your agent at [deal-router](skills/deal-router/). It reads the last message and picks the right skill.
+
+**Is text from the books copied?**
+No. Every skill is written in original words. [SOURCES.md](SOURCES.md) names each book and what it contributed.
+
+**Can I use it commercially?**
+Yes. MIT license.
+
 ## License
 
 MIT. Fork it, ship it, sell products with it.
 
 <div align="center">
-<sub>Built by <a href="https://github.com/YannisKiefer">Yannis Kiefer</a></sub>
+<sub>Built by <a href="https://github.com/YannisKiefer">Yannis Kiefer</a>, founder of <a href="https://ecombrain.io/?utm_source=github&utm_medium=dark-psychology-skills&utm_campaign=oss&utm_content=readme-footer">EcomBrain</a>.</sub>
 </div>
