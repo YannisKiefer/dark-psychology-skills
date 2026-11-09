@@ -1,0 +1,29 @@
+# dark-psychology-skills
+
+> dark-psychology-skills is a free, MIT-licensed set of 13 agent skills (SKILL.md files) that teach AI agents honest negotiation, persuasion, objection handling and sales outreach. Distilled in original words from 36 books on persuasion, negotiation, behavior analysis and propaganda. Every tactic must still work after it is explained out loud; manipulation appears only as defense material.
+
+## Skills
+
+- [deal-router](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/deal-router/SKILL.md): read the last message, pick the right skill
+- [trust-from-zero](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/trust-from-zero/SKILL.md): get believed when nobody knows you
+- [frame-control](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/frame-control/SKILL.md): stop needing the deal
+- [discovery-power](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/discovery-power/SKILL.md): questions that make people open up
+- [price-anchor](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/price-anchor/SKILL.md): set the first number and hold it
+- [objection-slayer](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/objection-slayer/SKILL.md): answers to every "no"
+- [risk-reversal](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/risk-reversal/SKILL.md): carry the risk so the buyer can say yes
+- [cold-outreach](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/cold-outreach/SKILL.md): first messages that get replies
+- [reading-people](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/reading-people/SKILL.md): spot real intent in chat
+- [client-archetypes](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/client-archetypes/SKILL.md): six buyer types, six tones
+- [walk-away-power](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/walk-away-power/SKILL.md): leave in a way that raises your value
+- [operator-mindset](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/operator-mindset/SKILL.md): stay calm before every send
+- [dark-tactics-defense](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/skills/dark-tactics-defense/SKILL.md): see tricks aimed at you
+
+## Docs
+
+- [README](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/README.md): install, skill list, FAQ
+- [EXAMPLES](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/EXAMPLES.md): two example sales threads
+- [SOURCES](https://github.com/YannisKiefer/dark-psychology-skills/blob/main/SOURCES.md): the 36 books and what each contributed
+
+## Author
+
+- Built by Yannis Kiefer (https://github.com/YannisKiefer), founder of EcomBrain (https://ecombrain.io/?utm_source=github&utm_medium=dark-psychology-skills&utm_campaign=oss&utm_content=llms-txt), superintelligence that runs your online store.
