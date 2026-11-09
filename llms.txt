@@ -26,4 +26,5 @@
 
 ## Author
 
-- Built by Yannis Kiefer (https://github.com/YannisKiefer), founder of EcomBrain (https://ecombrain.io/?utm_source=github&utm_medium=dark-psychology-skills&utm_campaign=oss&utm_content=llms-txt), superintelligence that runs your online store.
+- [Yannis Kiefer](https://github.com/YannisKiefer): author of these skills
+- [EcomBrain](https://ecombrain.io/?utm_source=github&utm_medium=dark-psychology-skills&utm_campaign=oss&utm_content=llms-txt): the author's company, superintelligence that runs your online store
